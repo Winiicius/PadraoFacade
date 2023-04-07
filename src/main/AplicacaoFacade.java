@@ -6,7 +6,7 @@ import criptografia.MD5Encriptador;
 import criptografia.SHA256Encriptador;
 import criptografia.SHAEncriptador;
 
-public class Aplicacao {
+public class AplicacaoFacade {
 
 	public static void main(String[] args) {
 		usandoSubsistemaCriptografiaSemFacade();
